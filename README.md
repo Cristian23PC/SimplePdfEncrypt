@@ -1,5 +1,5 @@
 
-**SIMPLE SCRIPT PARA ENCRIPTAR PDF**
+**SIMPLE SCRIPT PARA CIFRAR PDF**
 - _MODO DE USO:_
 1. pip3 install -r requirements.txt 
 2. python3 encriptado_pdf.py 
