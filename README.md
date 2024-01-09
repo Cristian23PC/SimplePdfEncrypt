@@ -1,6 +1,6 @@
 
 **SIMPLE SCRIPT PARA CIFRAR PDF**
-- _MODO DE USO:_
+- **MODO DE USO:**
 1. git clone https://github.com/Cristian23PC/SimplePdfEncrypt.git
 2. pip install -r <ruta_donde_esta_requirements.txt> 
 3. python pdf_encriptador.py -archivo <ruta_archivo>
