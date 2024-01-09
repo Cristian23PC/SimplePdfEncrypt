@@ -5,7 +5,7 @@
 2. pip install -r <ruta_donde_esta_requirements.txt> 
 3. python <ruta/pdf_encriptador.py> -archivo <ruta_archivo>
 4. colocar contraseña
-5. el archivo queda guardado en la misma carpeta en donde se tomó la ruta del archivo inicial
+El archivo queda guardado en la misma carpeta en donde se tomó la ruta del archivo inicial
 Previamente es necesario tener instalado python , si no funciona tambien configurar variables de entorno de python
-- Saludos =D!
+Saludos =D!
 
